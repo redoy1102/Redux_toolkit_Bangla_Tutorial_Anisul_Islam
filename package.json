@@ -1,0 +1,23 @@
+{
+  "name": "redux_toolkit_bangla_tutorial_anisul_islam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redoy1102/Redux_toolkit_Bangla_Tutorial_Anisul_Islam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redoy1102/Redux_toolkit_Bangla_Tutorial_Anisul_Islam/issues"
+  },
+  "homepage": "https://github.com/redoy1102/Redux_toolkit_Bangla_Tutorial_Anisul_Islam#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
